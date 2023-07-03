@@ -1,0 +1,13 @@
+{
+  "name": "flexbox",
+  "version": "1.0.0",
+  "description": "",
+  "source": "index.html",
+  "scripts": {
+    "start": "npx parcel",
+    "build": "npx parcel build"
+  },
+  "devDependencies": {
+    "parcel": "latest"
+  }
+}
